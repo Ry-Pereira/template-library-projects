@@ -1,72 +1,53 @@
-# 🎯 Project Name
+# 🌐🎞️🎵 HTML Basic Website Template
 
 ## 📌 Overview
 
-Brief description of the project.
-
-Explain what the project does, how it works, and what users can accomplish with it.
+This template provides a simple starting point for building websites with HTML. It includes a basic HTML file and organized folders for images, audio, and video files, making it easier to manage multimedia content in future projects.
 
 Users can:
 
-* Feature 1
-* Feature 2
-* Feature 3
-* Feature 4
-* Feature 5
+* Start new website projects quickly
+* Organize multimedia files efficiently
+* Learn basic HTML project structure
+* Customize the template for their own needs
+* Reuse the template for future projects
+* Build websites more efficiently
 
 ---
 
 ## 🧱 Project Structure
 
 ```text
-project-folder/
+html-basic-website-template/
 │
-├── index.html              # Main HTML webpage
+├── index.html
 │
-├── images/                 # Image files
-├── audio/                  # Audio files
-├── videos/                 # Video files
+├── images/
+│   ├── sample-image.png
+│   └── sample-image.gif
 │
-└── README.md               # Project documentation
+├── audio/
+│   └── sample-audio.mp3
+│
+└── videos/
+    └── sample-video.mp4
 ```
 
 ---
 
 ## 🚀 Features
 
-* Feature 1
-* Feature 2
-* Feature 3
-* Beginner-friendly code
-* Organized project structure
+* Ready-to-use website template
+* Organized media folders
+* Sample image files included
+* Sample audio file included
+* Sample video file included
+* Beginner-friendly layout
+* Easy customization
 
 ---
 
-## 🖼️ Media Files
-
-This project includes media resources that enhance the user experience.
-
-### Images
-
-* Icons
-* Background images
-* Project graphics
-
-### Audio
-
-* Sound effects
-* Background music
-* Voice recordings
-
-### Videos
-
-* Demonstration videos
-* Background videos
-* Animations
-
----
-
-## 🛠️ Technologies Used
+## 🛠️ Technologies Included
 
 * HTML5
 
@@ -74,70 +55,42 @@ This project includes media resources that enhance the user experience.
 
 ## 📡 Project Purpose
 
-This project is designed to:
+This template is designed to:
 
-Practice HTML webpage structure
+1. Provide a reusable website template
+2. Reduce project setup time
+3. Promote organized file management
+4. Help beginners learn project structure
+5. Serve as a starter template for HTML websites
+6. Support rapid website development
 
 ---
 
-## ▶️ How to Run the Project
+## ▶️ How to Use
 
-1. Download or clone the repository:
+1. Copy the template folder.
 
-   ```bash
-   git clone <your-repository-url>
-   ```
+2. Rename the folder for your project.
 
-2. Open the project folder.
+3. Replace the sample media files with your own content.
 
-3. Verify the following files and folders exist:
+4. Open `index.html`.
 
-   * `index.html`
-   * `images/`
-   * `audio/`
-   * `videos/`
-
-4. Open:
-
-   ```text
-   index.html
-   ```
-
-5. Interact with the webpage and explore its features.
+5. Begin developing your website.
 
 ---
 
 ## 📂 Project Contents
 
-* `index.html` — Main webpage file
-* `images/` — Image assets
-* `audio/` — Audio assets
-* `videos/` — Video assets
-* `README.md` — Project documentation
-
----
-
-## 💡 Learning Concepts
-
-* HTML Elements
-* User Interaction
-* Multimedia Integration
-* Front-End Development
-
----
-
-## 🔮 Future Improvements
-
-* Add new features
-* Enhance accessibility
-* Optimize media loading
-* Improve mobile responsiveness
+* `index.html` — Main webpage
+* `images/` — Image and GIF files
+* `audio/` — Audio files
+* `videos/` — Video files
 
 ---
 
 ## 📅 Project Info
 
-**Author:** Ryan Pereira
-**Created:** MM/DD/YYYY
-**Last Modified:** MM/DD/YYYY
-
+**Author:** Ryan Pereira  
+**Created:** 06/01/2026  
+**Last Modified:** 06/01/2026
