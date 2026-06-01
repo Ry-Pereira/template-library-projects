@@ -1,71 +1,61 @@
-# 🎯 Project Name
+# 🌐🎨⚡ HTML, CSS & JavaScript Project Templates
 
 ## 📌 Overview
 
-Brief description of the project.
-
-Explain what the project does, how it works, and what users can accomplish with it.
+This repository contains a collection of starter templates for HTML, CSS, and JavaScript projects. These templates provide a structured foundation for building web applications and websites while helping developers organize their projects efficiently.
 
 Users can:
 
-* Feature 1
-* Feature 2
-* Feature 3
-* Feature 4
-* Feature 5
+* Start new web development projects quickly
+* Reuse pre-built project structures
+* Organize media files efficiently
+* Learn proper project organization
+* Customize templates for different project types
+* Practice HTML, CSS, and JavaScript development
 
 ---
 
 ## 🧱 Project Structure
 
 ```text
-project-folder/
+html-css-javascript-project-templates/
 │
-├── index.html              # Main HTML webpage
-├── styles.css              # CSS styling file
-├── script.js               # JavaScript functionality
+├── basic/
+│   ├── index.html
+│   ├── styles.css
+│   ├── script.js
+│   └── README.md
 │
-├── images/                 # Image files
-├── audio/                  # Audio files
-├── videos/                 # Video files
+├── landing-page/
+│   ├── index.html
+│   ├── styles.css
+│   ├── script.js
+│   ├── images/
+│   └── README.md
 │
-└── README.md               # Project documentation
+├── multimedia/
+│   ├── index.html
+│   ├── styles.css
+│   ├── script.js
+│   ├── images/
+│   ├── audio/
+│   ├── videos/
+│   └── README.md
+│
+└── README.md
 ```
 
 ---
 
 ## 🚀 Features
 
-* Feature 1
-* Feature 2
-* Feature 3
-* Interactive user interface
-* Beginner-friendly code
-* Organized project structure
-
----
-
-## 🖼️ Media Files
-
-This project includes media resources that enhance the user experience.
-
-### Images
-
-* Icons
-* Background images
-* Project graphics
-
-### Audio
-
-* Sound effects
-* Background music
-* Voice recordings
-
-### Videos
-
-* Demonstration videos
-* Background videos
-* Animations
+* Ready-to-use project templates
+* Beginner-friendly file structures
+* Reusable starter code
+* Organized project layouts
+* Support for multimedia projects
+* Easy customization
+* Consistent folder organization
 
 ---
 
@@ -79,15 +69,14 @@ This project includes media resources that enhance the user experience.
 
 ## 📡 Project Purpose
 
-This project is designed to:
+This repository is designed to:
 
-1. Practice HTML webpage structure
-2. Improve CSS styling techniques
-3. Learn JavaScript programming fundamentals
-4. Explore DOM manipulation
-5. Implement user interactions
-6. Work with multimedia files
-7. Build a complete front-end project
+1. Provide reusable web development templates
+2. Demonstrate proper project organization
+3. Help developers start projects faster
+4. Encourage consistent file structures
+5. Support multimedia-based projects
+6. Improve front-end development workflow
 
 ---
 
@@ -99,67 +88,35 @@ This project is designed to:
    git clone <your-repository-url>
    ```
 
-2. Open the project folder.
+2. Open the repository folder.
 
-3. Verify the following files and folders exist:
+3. Choose a template folder.
 
-   * `index.html`
-   * `styles.css`
-   * `script.js`
-   * `images/`
-   * `audio/`
-   * `videos/`
+4. Open the desired template.
 
-4. Open:
+5. Launch the project by opening:
 
    ```text
    index.html
    ```
 
-5. Interact with the webpage and explore its features.
+6. Begin customizing the template for your project.
 
 ---
 
 ## 📂 Project Contents
 
-* `index.html` — Main webpage file
-* `styles.css` — Styling file
-* `script.js` — JavaScript functionality
-* `images/` — Image assets
-* `audio/` — Audio assets
-* `videos/` — Video assets
-* `README.md` — Project documentation
-
----
-
-## 💡 Learning Concepts
-
-* HTML Elements
-* CSS Styling
-* JavaScript Fundamentals
-* DOM Manipulation
-* Event Handling
-* User Interaction
-* Multimedia Integration
-* Front-End Development
-
----
-
-## 🔮 Future Improvements
-
-* Add new features
-* Improve styling and layout
-* Add animations and transitions
-* Enhance accessibility
-* Optimize media loading
-* Improve mobile responsiveness
+* `basic/` — Basic HTML, CSS, and JavaScript template
+* `landing-page/` — Landing page template with image support
+* `multimedia/` — Template with images, audio, and video folders
+* `README.md` — Repository documentation
 
 ---
 
 ## 📅 Project Info
 
 **Author:** Ryan Pereira
-**Created:** MM/DD/YYYY
-**Last Modified:** MM/DD/YYYY
+**Created:** 05/31/2026
+**Last Modified:** 05/31/2026
 
 
