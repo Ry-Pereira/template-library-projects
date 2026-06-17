@@ -1,0 +1,55 @@
+<!-- Name: Ryan Pereira -->
+<!-- Project Name: -->
+<!-- Description: -->
+<!-- Module Name: index.html -->
+<!-- Module Purpose: -->
+<!-- Collaborators: None -->
+<!-- Sources: Github Copilot, Stack Overflow, ChatGPT, Documentation, Previous Project Code Reuse -->
+<!-- Date: -->
+<!-- Last Modified: -->
+
+
+<!-- Defines the document type as HTML5 -->
+<!DOCTYPE html>
+
+<!-- Root HTML element, language set to English -->
+<html lang="en">
+
+    <!-- Head section contains metadata and page settings -->
+    <head>
+
+        <!-- Sets character encoding to UTF-8 -->
+        <meta charset="UTF-8">
+
+        <!-- Makes the page responsive on different screen sizes -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- Title shown in browser tab -->
+        <title>{{ page_title }}</title>
+
+    </head>
+
+
+    <!-- Body section contains visible page content -->
+    <body>
+
+        <!-- Main heading -->
+        <h1>{{ heading }}</h1>
+
+        <!-- Dynamic text from Flask -->
+        <p>{{ message }}</p>
+
+        <!-- Example form -->
+        <form method="POST">
+
+            <!-- User input -->
+            <input type="text" name="user_input" placeholder="Enter text">
+
+            <!-- Submit button -->
+            <button type="submit">Submit</button>
+
+        </form>
+
+    </body>
+
+</html>
